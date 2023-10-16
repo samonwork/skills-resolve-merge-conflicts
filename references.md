@@ -1,1 +1,1 @@
-Here is a conflict!
+Here is not a conflict!
